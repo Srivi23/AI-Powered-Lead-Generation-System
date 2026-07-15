@@ -1,0 +1,55 @@
+# Project Testing
+
+## Project Testing
+
+The Project Testing phase ensures that the AI-Powered Lead Generation System functions correctly, meets user requirements, and delivers accurate results. Various testing methods were performed to verify the reliability, performance, and usability of the application.
+
+### Testing Objectives
+
+* Verify that all system features work as expected.
+* Ensure accurate AI-based lead scoring and prioritization.
+* Validate automation workflows and notifications.
+* Check system security and data integrity.
+* Confirm that reports and dashboards display correct information.
+
+### Types of Testing
+
+#### 1. Unit Testing
+
+Individual components such as lead creation, AI lead scoring, and Salesforce Flow automation were tested separately to ensure they function correctly.
+
+#### 2. Integration Testing
+
+The integration between Salesforce CRM, Agentforce, Apex, and Salesforce Flow was tested to ensure smooth communication and data exchange.
+
+#### 3. Functional Testing
+
+All system functions, including lead management, lead scoring, prioritization, notifications, and report generation, were tested against the project requirements.
+
+#### 4. User Acceptance Testing (UAT)
+
+Sales representatives tested the system to verify that it met business requirements and was easy to use.
+
+#### 5. Performance Testing
+
+The system was tested with multiple lead records to ensure it maintained acceptable response times and reliable performance.
+
+### Test Cases
+
+| Test Case                  | Expected Result                                      | Status |
+| -------------------------- | ---------------------------------------------------- | ------ |
+| User Login                 | User logs in successfully                            | Passed |
+| Create Lead                | New lead is created and stored                       | Passed |
+| AI Lead Scoring            | Lead score is generated accurately                   | Passed |
+| Lead Prioritization        | High-priority leads are displayed first              | Passed |
+| Agentforce Recommendation  | Suggestions are generated correctly                  | Passed |
+| Salesforce Flow Automation | Follow-up tasks and alerts are created automatically | Passed |
+| Reports & Dashboards       | Reports display accurate lead information            | Passed |
+
+### Testing Outcome
+
+The testing confirmed that the AI-Powered Lead Generation System successfully automates lead management, accurately prioritizes leads using AI, and integrates effectively with Salesforce and Agentforce. All major functionalities operated as expected, and the system was found to be reliable, secure, and user-friendly.
+
+## Conclusion
+
+Project testing ensured that the system met both functional and business requirements. After successful testing and validation, the AI-Powered Lead Generation System was ready for deployment, providing an efficient and intelligent solution for lead generation and sales management.
