@@ -1,0 +1,40 @@
+# Brainstorming and Ideation Phase
+
+## Brainstorming
+
+The brainstorming phase focused on identifying the challenges faced by sales teams in managing and converting leads. Traditional lead management often involves manual sorting and follow-ups, making it difficult to identify high-potential customers quickly. To address these challenges, the team explored how Artificial Intelligence (AI) and Salesforce technologies could automate lead identification and prioritization.
+
+The following ideas were discussed:
+
+* Automate lead collection and management.
+* Use AI to predict the likelihood of lead conversion.
+* Prioritize leads based on their conversion score.
+* Send real-time alerts and recommendations to sales representatives.
+* Automate follow-up tasks using Salesforce Flow and Agentforce.
+* Create dashboards to monitor lead performance and sales activities.
+
+After evaluating these ideas, the team selected the concept of an **AI-Powered Lead Generation System** because it improves efficiency, reduces manual work, and helps sales teams focus on the most promising opportunities.
+
+## Ideation Phase
+
+During the ideation phase, the selected idea was refined into a practical solution. The proposed system integrates Salesforce CRM with AI capabilities and Agentforce to automate lead management.
+
+### Problem Statement
+
+Sales teams often spend significant time identifying and qualifying leads manually, resulting in delayed responses and lower conversion rates.
+
+### Proposed Solution
+
+Develop an AI-powered lead generation system that automatically analyzes customer data, predicts lead conversion probability, assigns lead scores, prioritizes leads, and provides intelligent recommendations to sales representatives.
+
+### Objectives
+
+* Automate the lead qualification process.
+* Improve lead conversion through AI-based predictions.
+* Reduce manual effort in managing leads.
+* Enable faster and smarter sales decisions.
+* Enhance overall sales productivity.
+
+### Expected Outcome
+
+The system will help organizations identify high-quality leads more accurately, improve customer engagement, reduce response time, and increase overall sales performance through intelligent automation and predictive analytics.
